@@ -7,3 +7,5 @@ After measuring the position of all the holes, and looking up the generator spec
 The result is an overlap of a bigger and smaller circle, with the relevant mounting holes, and a bigger center hole for the axle to go through.<br>
 This was then connected by screwing it into the plastic and using threaded rods with nuts at the right places to secure it. at the ends of the rod, a self-locking nut was used so the whole would be resistant to loosening.<br>
 Since it would be more difficult to make precise out of 1 thick plate, I used 2mm thick steel plates on either end with 2 3mm thick plates from a softer material that we could fully cut out with the laser in between. Once tightened properly, this is more sturdy than the plastic mount it was connected to, thus plenty strong for the contraption.
+
+The 3d model was designed using autodesk fusion for personal use.
